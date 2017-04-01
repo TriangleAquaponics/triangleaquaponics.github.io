@@ -1,0 +1,10 @@
+# Project Owner details
+
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+ksmith: # replace this with your info
+  name: "Kelly Smith"
+  phone: 571-232-1357
+  email: kelly@polyponic.com
+
+# you can add more here
