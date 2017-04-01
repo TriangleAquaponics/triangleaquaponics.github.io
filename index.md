@@ -1,40 +1,19 @@
 ---
 layout: default
 ---
-## Welcome to GitHub Pages
+## Welcome to the Triangle Aquaponics community.
 
-You can use the [editor on GitHub](https://github.com/TriangleAquaponics/triangleaquaponics.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Insert cool image here]
+### Projects
+Take a look at our community projects. See something you like? Get additional details or schedule a tour with the project owner. Want to get your project added here? <strong>Contact us</strong> to let us know.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Insert cool image here]
+### Get Involved
+If you are interested in learning or helping on a project build, join a team. Volunteers are also needed to conduct interviews and write case studies. You can also support current projects and donate tools or materials.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TriangleAquaponics/triangleaquaponics.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Insert cool image here]
+### Resources
+We are building a resource section to keep track of local sources for needed supplies, materials, fish, worms and anything else specific to our projects. Find what you need, submit your own, or ask the community.
