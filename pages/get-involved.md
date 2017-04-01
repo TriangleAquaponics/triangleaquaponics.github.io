@@ -1,6 +1,8 @@
 ---
-
+title: Get Involved
+permalink: /get-involved.html
 ---
+
 To get help with a current project, view the details of the project(s) below to see what is needed. We'd love to have you join the build team, donate materials or funds. Some projects may have a link to an external site such as GoFundMe.com. To donate funds directly to a project, use the link on the project page. To donate to a general fund that will be distributed across projects, use the link below.
 
 DONATE FUNDS
